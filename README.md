@@ -1,1 +1,1 @@
-# Airbnb-Clone website using technology node.js, Express, MongoDB , Middleware etc.
+# Airbnb Hotel Booking website using technology node.js, Express, MongoDB , Middleware etc.
